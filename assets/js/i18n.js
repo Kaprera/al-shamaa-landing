@@ -144,7 +144,7 @@
     "AL-SHAMAA ENGINEERING SERVICES AND CONSULTANCY": "الشمّاع للخدمات والاستشارات الهندسية",
     "PRECISION · COORDINATION · BUILDABILITY": "الدقّة · التنسيق · قابلية التنفيذ",
     "WhatsApp": "واتساب",
-    "DESIGNED AND DEVELOPED BY": "تصميم وتطوير",
+    "BUILT BY": "بناء",
 
     /* Selected work / Ohana Villas case study */
     "Work": "أعمالنا",
